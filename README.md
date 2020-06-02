@@ -1,1 +1,1 @@
-# Basic-Tetris-Game
+This a basic tetris game with 3 difficulty levels easy, medium and hard. As the difficulty level increases, the speed of the tetris block increases. The game can be paused and resumed. It can also be restarted at any point of time. It also has a preview which shows the tetris that is going to arrive next.
